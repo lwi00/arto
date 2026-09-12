@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "button-led",
+  "name": "Button and LED",
+  "description": "A button on D2 and the built-in LED on D13. The button uses INPUT_PULLUP: pressed is 0.",
+  "board": "arduino-uno",
+  "components": [
+    { "id": "button", "label": "Push button", "pin": 2, "kind": "digital-input", "pullup": true },
+    { "id": "led", "label": "Built-in LED", "pin": 13, "kind": "digital-output" }
+  ]
+}
