@@ -1,0 +1,548 @@
+{
+  "source": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Plan_Metro_Paris_13.svg",
+  "sourcePage": "https://fr.wikipedia.org/wiki/Fichier:Plan_Metro_Paris_13.svg",
+  "attribution": "Plan de la ligne 13 - Chabe01, modifications AlexBurn44 (version du 6 décembre 2020), CC BY-SA 4.0.",
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "viewBox": [
+    0,
+    0,
+    2282,
+    930
+  ],
+  "coordinates": "Global SVG user units, all circle transforms applied. Use outer SVG viewBox=\"0 0 2282 930\" and image x=0 y=0 width=2282 height=930.",
+  "stations": [
+    {
+      "id": "chatillon",
+      "name": "Châtillon–Montrouge",
+      "branch": "trunk",
+      "circleId": "circle4029-9",
+      "x": 2106.133007,
+      "y": 579.86422,
+      "radius": 12.5
+    },
+    {
+      "id": "etienne",
+      "name": "Malakoff–Rue Étienne Dolet",
+      "branch": "trunk",
+      "circleId": "circle4511",
+      "x": 2026.999907,
+      "y": 579.36197,
+      "radius": 12.5
+    },
+    {
+      "id": "malakoff",
+      "name": "Malakoff–Plateau de Vanves",
+      "branch": "trunk",
+      "circleId": "circle4509",
+      "x": 1946.999907,
+      "y": 579.36197,
+      "radius": 12.5
+    },
+    {
+      "id": "porte_vanves",
+      "name": "Porte de Vanves",
+      "branch": "trunk",
+      "circleId": "circle4507",
+      "x": 1866.999907,
+      "y": 579.36197,
+      "radius": 12.5
+    },
+    {
+      "id": "plaisance",
+      "name": "Plaisance",
+      "branch": "trunk",
+      "circleId": "circle4505",
+      "x": 1786.999907,
+      "y": 579.36197,
+      "radius": 12.5
+    },
+    {
+      "id": "pernety",
+      "name": "Pernety",
+      "branch": "trunk",
+      "circleId": "circle4503",
+      "x": 1706.999907,
+      "y": 579.36197,
+      "radius": 12.5
+    },
+    {
+      "id": "gaite",
+      "name": "Gaîté",
+      "branch": "trunk",
+      "circleId": "circle4501",
+      "x": 1626.999907,
+      "y": 579.36197,
+      "radius": 12.5
+    },
+    {
+      "id": "montparnasse",
+      "name": "Montparnasse–Bienvenüe",
+      "branch": "trunk",
+      "circleId": "circle4499",
+      "x": 1546.999907,
+      "y": 579.36197,
+      "radius": 12.5
+    },
+    {
+      "id": "duroc",
+      "name": "Duroc",
+      "branch": "trunk",
+      "circleId": "circle4497",
+      "x": 1466.999907,
+      "y": 579.36197,
+      "radius": 12.5
+    },
+    {
+      "id": "saint_francois",
+      "name": "Saint-François-Xavier",
+      "branch": "trunk",
+      "circleId": "circle4495",
+      "x": 1386.999907,
+      "y": 579.36197,
+      "radius": 12.5
+    },
+    {
+      "id": "varenne",
+      "name": "Varenne",
+      "branch": "trunk",
+      "circleId": "circle4493",
+      "x": 1306.999907,
+      "y": 579.36197,
+      "radius": 12.5
+    },
+    {
+      "id": "invalides",
+      "name": "Invalides",
+      "branch": "trunk",
+      "circleId": "circle4491",
+      "x": 1226.999907,
+      "y": 579.36197,
+      "radius": 12.5
+    },
+    {
+      "id": "clemenceau",
+      "name": "Champs-Élysées–Clemenceau",
+      "branch": "trunk",
+      "circleId": "circle4489",
+      "x": 1146.999907,
+      "y": 579.36197,
+      "radius": 12.5
+    },
+    {
+      "id": "miromesnil",
+      "name": "Miromesnil",
+      "branch": "trunk",
+      "circleId": "circle4487",
+      "x": 1066.999907,
+      "y": 579.36197,
+      "radius": 12.5
+    },
+    {
+      "id": "saint_lazare",
+      "name": "Saint-Lazare",
+      "branch": "trunk",
+      "circleId": "circle4485",
+      "x": 986.999907,
+      "y": 579.36197,
+      "radius": 12.5
+    },
+    {
+      "id": "liege",
+      "name": "Liège",
+      "branch": "trunk",
+      "circleId": "circle4483",
+      "x": 906.999907,
+      "y": 579.36197,
+      "radius": 12.5
+    },
+    {
+      "id": "place_clichy",
+      "name": "Place de Clichy",
+      "branch": "trunk",
+      "circleId": "circle4481",
+      "x": 827.000067,
+      "y": 579.36197,
+      "radius": 12.5
+    },
+    {
+      "id": "fourche",
+      "name": "La Fourche",
+      "branch": "trunk",
+      "circleId": "circle4479",
+      "x": 746.999887,
+      "y": 579.36197,
+      "radius": 12.5
+    },
+    {
+      "id": "brochant",
+      "name": "Brochant",
+      "branch": "asnieres",
+      "circleId": "circle7192",
+      "x": 586.999647,
+      "y": 685.73074,
+      "radius": 12.5
+    },
+    {
+      "id": "porte_clichy",
+      "name": "Porte de Clichy",
+      "branch": "asnieres",
+      "circleId": "circle7194",
+      "x": 506.999647,
+      "y": 685.73074,
+      "radius": 12.5
+    },
+    {
+      "id": "mairie_clichy",
+      "name": "Mairie de Clichy",
+      "branch": "asnieres",
+      "circleId": "circle7196",
+      "x": 426.999647,
+      "y": 685.73074,
+      "radius": 12.5
+    },
+    {
+      "id": "gabriel",
+      "name": "Gabriel Péri",
+      "branch": "asnieres",
+      "circleId": "circle3973",
+      "x": 346.999217,
+      "y": 685.73074,
+      "radius": 12.5
+    },
+    {
+      "id": "agnettes",
+      "name": "Les Agnettes",
+      "branch": "asnieres",
+      "circleId": "circle3979",
+      "x": 266.999217,
+      "y": 685.73074,
+      "radius": 12.5
+    },
+    {
+      "id": "courtilles",
+      "name": "Les Courtilles",
+      "branch": "asnieres",
+      "circleId": "circle3985",
+      "x": 186.999247,
+      "y": 685.73074,
+      "radius": 12.5
+    },
+    {
+      "id": "guy_moquet",
+      "name": "Guy Môquet",
+      "branch": "saint_denis",
+      "circleId": "circle3967",
+      "x": 586.999947,
+      "y": 472.99283,
+      "radius": 12.5
+    },
+    {
+      "id": "porte_ouen",
+      "name": "Porte de Saint-Ouen",
+      "branch": "saint_denis",
+      "circleId": "circle7192-7",
+      "x": 505.259167,
+      "y": 472.60748,
+      "radius": 12.5
+    },
+    {
+      "id": "garibaldi",
+      "name": "Garibaldi",
+      "branch": "saint_denis",
+      "circleId": "circle9687",
+      "x": 427.500067,
+      "y": 472.99283,
+      "radius": 12.5
+    },
+    {
+      "id": "mairie_ouen",
+      "name": "Mairie de Saint-Ouen",
+      "branch": "saint_denis",
+      "circleId": "circle9640",
+      "x": 347.500067,
+      "y": 472.99283,
+      "radius": 12.5
+    },
+    {
+      "id": "pleyel",
+      "name": "Carrefour Pleyel",
+      "branch": "saint_denis",
+      "circleId": "circle4015",
+      "x": 267.500137,
+      "y": 472.99283,
+      "radius": 12.5
+    },
+    {
+      "id": "porte_paris",
+      "name": "Saint-Denis–Porte de Paris",
+      "branch": "saint_denis",
+      "circleId": "circle4021",
+      "x": 187.500137,
+      "y": 472.99283,
+      "radius": 12.5
+    },
+    {
+      "id": "basilique",
+      "name": "Basilique de Saint-Denis",
+      "branch": "saint_denis",
+      "circleId": "circle4027",
+      "x": 106.999977,
+      "y": 472.99283,
+      "radius": 12.5
+    },
+    {
+      "id": "universite",
+      "name": "Saint-Denis–Université",
+      "branch": "saint_denis",
+      "circleId": "circle4029",
+      "x": 27.500097,
+      "y": 472.99283,
+      "radius": 12.5
+    }
+  ],
+  "byId": {
+    "chatillon": {
+      "x": 2106.133007,
+      "y": 579.86422,
+      "circleId": "circle4029-9"
+    },
+    "etienne": {
+      "x": 2026.999907,
+      "y": 579.36197,
+      "circleId": "circle4511"
+    },
+    "malakoff": {
+      "x": 1946.999907,
+      "y": 579.36197,
+      "circleId": "circle4509"
+    },
+    "porte_vanves": {
+      "x": 1866.999907,
+      "y": 579.36197,
+      "circleId": "circle4507"
+    },
+    "plaisance": {
+      "x": 1786.999907,
+      "y": 579.36197,
+      "circleId": "circle4505"
+    },
+    "pernety": {
+      "x": 1706.999907,
+      "y": 579.36197,
+      "circleId": "circle4503"
+    },
+    "gaite": {
+      "x": 1626.999907,
+      "y": 579.36197,
+      "circleId": "circle4501"
+    },
+    "montparnasse": {
+      "x": 1546.999907,
+      "y": 579.36197,
+      "circleId": "circle4499"
+    },
+    "duroc": {
+      "x": 1466.999907,
+      "y": 579.36197,
+      "circleId": "circle4497"
+    },
+    "saint_francois": {
+      "x": 1386.999907,
+      "y": 579.36197,
+      "circleId": "circle4495"
+    },
+    "varenne": {
+      "x": 1306.999907,
+      "y": 579.36197,
+      "circleId": "circle4493"
+    },
+    "invalides": {
+      "x": 1226.999907,
+      "y": 579.36197,
+      "circleId": "circle4491"
+    },
+    "clemenceau": {
+      "x": 1146.999907,
+      "y": 579.36197,
+      "circleId": "circle4489"
+    },
+    "miromesnil": {
+      "x": 1066.999907,
+      "y": 579.36197,
+      "circleId": "circle4487"
+    },
+    "saint_lazare": {
+      "x": 986.999907,
+      "y": 579.36197,
+      "circleId": "circle4485"
+    },
+    "liege": {
+      "x": 906.999907,
+      "y": 579.36197,
+      "circleId": "circle4483"
+    },
+    "place_clichy": {
+      "x": 827.000067,
+      "y": 579.36197,
+      "circleId": "circle4481"
+    },
+    "fourche": {
+      "x": 746.999887,
+      "y": 579.36197,
+      "circleId": "circle4479"
+    },
+    "brochant": {
+      "x": 586.999647,
+      "y": 685.73074,
+      "circleId": "circle7192"
+    },
+    "porte_clichy": {
+      "x": 506.999647,
+      "y": 685.73074,
+      "circleId": "circle7194"
+    },
+    "mairie_clichy": {
+      "x": 426.999647,
+      "y": 685.73074,
+      "circleId": "circle7196"
+    },
+    "gabriel": {
+      "x": 346.999217,
+      "y": 685.73074,
+      "circleId": "circle3973"
+    },
+    "agnettes": {
+      "x": 266.999217,
+      "y": 685.73074,
+      "circleId": "circle3979"
+    },
+    "courtilles": {
+      "x": 186.999247,
+      "y": 685.73074,
+      "circleId": "circle3985"
+    },
+    "guy_moquet": {
+      "x": 586.999947,
+      "y": 472.99283,
+      "circleId": "circle3967"
+    },
+    "porte_ouen": {
+      "x": 505.259167,
+      "y": 472.60748,
+      "circleId": "circle7192-7"
+    },
+    "garibaldi": {
+      "x": 427.500067,
+      "y": 472.99283,
+      "circleId": "circle9687"
+    },
+    "mairie_ouen": {
+      "x": 347.500067,
+      "y": 472.99283,
+      "circleId": "circle9640"
+    },
+    "pleyel": {
+      "x": 267.500137,
+      "y": 472.99283,
+      "circleId": "circle4015"
+    },
+    "porte_paris": {
+      "x": 187.500137,
+      "y": 472.99283,
+      "circleId": "circle4021"
+    },
+    "basilique": {
+      "x": 106.999977,
+      "y": 472.99283,
+      "circleId": "circle4027"
+    },
+    "universite": {
+      "x": 27.500097,
+      "y": 472.99283,
+      "circleId": "circle4029"
+    }
+  },
+  "paths": {
+    "asnieres": [
+      "chatillon",
+      "etienne",
+      "malakoff",
+      "porte_vanves",
+      "plaisance",
+      "pernety",
+      "gaite",
+      "montparnasse",
+      "duroc",
+      "saint_francois",
+      "varenne",
+      "invalides",
+      "clemenceau",
+      "miromesnil",
+      "saint_lazare",
+      "liege",
+      "place_clichy",
+      "fourche",
+      "brochant",
+      "porte_clichy",
+      "mairie_clichy",
+      "gabriel",
+      "agnettes",
+      "courtilles"
+    ],
+    "saint_denis": [
+      "chatillon",
+      "etienne",
+      "malakoff",
+      "porte_vanves",
+      "plaisance",
+      "pernety",
+      "gaite",
+      "montparnasse",
+      "duroc",
+      "saint_francois",
+      "varenne",
+      "invalides",
+      "clemenceau",
+      "miromesnil",
+      "saint_lazare",
+      "liege",
+      "place_clichy",
+      "fourche",
+      "guy_moquet",
+      "porte_ouen",
+      "garibaldi",
+      "mairie_ouen",
+      "pleyel",
+      "porte_paris",
+      "basilique",
+      "universite"
+    ]
+  },
+  "sourcePaths": [
+    {
+      "id": "path4010",
+      "d": "m 2203.2522,516.70717 -1441.01604,0",
+      "transform": "translate(-96.135793,62.65463)"
+    },
+    {
+      "id": "path3787",
+      "d": "m 124.84207,410.34208 607.32819,-2e-5 c 17.85013,-0.55638 33.40769,4.77995 33.61223,32.58768 v 77.69929",
+      "transform": "translate(-96.135793,62.65463)"
+    },
+    {
+      "id": "path7190",
+      "d": "m 765.77812,512.78666 v 77.69745 c -0.20483,27.80707 -15.78344,33.14328 -31.53439,32.58689 l -452.1168,2e-5",
+      "transform": "translate(-96.135793,62.65463)"
+    }
+  ],
+  "curvedEdges": {
+    "fourche:guy_moquet": "M 746.999887 579.36197 H 669.646697 V 505.58437 C 669.442157 477.77664 653.884597 472.44031 636.034467 472.99669 L 586.999947 472.99283",
+    "fourche:brochant": "M 746.999887 579.36197 H 669.642327 V 653.13874 C 669.437497 680.94581 653.858887 686.28202 638.107937 685.72563 L 586.999647 685.73074"
+  },
+  "caveats": [
+    "Do not interpolate a straight line between La Fourche and Guy Môquet/Brochant: use curvedEdges, which follows the source junction.",
+    "Source contains duplicate circle9732 nearly coincident with Mairie de Clichy; canonical circle7196 is retained.",
+    "Source interchange information is dated 2020. Preserve attribution and show source date; it is not a current passenger interchange map.",
+    "Place train direction lanes at +/-10 user units on local path normal (Y on straight segments), not +/-10 X."
+  ]
+}

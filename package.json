@@ -4,38 +4,20 @@
   "description": "Harness-independent MCP access to physical and emulated Arduino devices",
   "type": "module",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lwi00/arto.git"
-  },
-  "engines": {
-    "node": ">=22"
-  },
+  "repository": { "type": "git", "url": "https://github.com/lwi00/arto.git" },
+  "engines": { "node": ">=22" },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "exports": {
-    ".": {
-      "types": "./dist/index.d.ts",
-      "import": "./dist/index.js"
-    }
-  },
-  "bin": {
-    "arto": "dist/cli.js"
-  },
-  "files": [
-    "dist",
-    "docs",
-    "firmware/arto",
-    "firmware/arto.hex",
-    "firmware/README.md",
-    "skills",
-    "examples",
-    "README.md",
-    "LICENSE"
-  ],
+  "exports": { ".": { "types": "./dist/index.d.ts", "import": "./dist/index.js" } },
+  "bin": { "arto": "dist/cli.js" },
+  "files": ["dist", "docs", "firmware/arto", "firmware/arto.hex", "firmware/README.md", "skills", "examples", "README.md", "LICENSE"],
+  "workspaces": ["applications/metro"],
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "test": "tsx --test tests/critical/*.test.ts",
+    "dev": "npm run dev --workspace=@arto/metro",
+    "start:metro": "npm run start --workspace=@arto/metro",
+    "build:metro": "npm run build && npm run build --workspace=@arto/metro",
     "prepack": "npm run build"
   },
   "dependencies": {
@@ -44,9 +26,5 @@
     "serialport": "^13.0.0",
     "zod": "^4.0.0"
   },
-  "devDependencies": {
-    "@types/node": "^22.0.0",
-    "typescript": "^5.9.0",
-    "tsx": "^4.20.0"
-  }
+  "devDependencies": { "@types/node": "^22.0.0", "typescript": "^5.9.0", "tsx": "^4.20.0" }
 }
