@@ -18,6 +18,7 @@
     "dev": "npm run dev --workspace=@arto/metro",
     "start:metro": "npm run start --workspace=@arto/metro",
     "build:metro": "npm run build && npm run build --workspace=@arto/metro",
+    "prepare": "npm run build",
     "prepack": "npm run build"
   },
   "dependencies": {
